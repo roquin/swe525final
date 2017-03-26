@@ -1,6 +1,9 @@
 Not Cherry1
 Cherry
 <<<<<<< HEAD
+<<<<<<< HEAD
 Not Cherry2
+=======
+>>>>>>> 8638d51... Cherry
 =======
 >>>>>>> 8638d51... Cherry
